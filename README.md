@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" alt="MasterHead"/>
+  <img src="Picsart_25-04-07_20-57-00-271.jpg" alt="MasterHead"/>
 </div>
 <h1 align="center">Hi 👋, I'm Chandik V.R</h1>
 <h3 align="center">A passionate Programmer from Kerala</h3>
